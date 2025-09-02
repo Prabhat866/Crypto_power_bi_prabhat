@@ -1,8 +1,8 @@
-###📊 Cryptocurrency Analysis Project (Power BI)
+### 📊 Cryptocurrency Analysis Project (Power BI)
 
 🚀 This project focuses on analyzing cryptocurrency market data using Power BI. It provides insights into price trends, market performance, and helps in making data-driven investment decisions.
 
-##📌 Features
+## 📌 Features
 
 ✨ Interactive Power BI Dashboard
 ✨ Price Trend Analysis 📈
@@ -13,12 +13,12 @@
 ## 📊 Dashboard Snapshots  
 
 ### 🔹 Main Dashboard  
-![Dashboard Snapshot](dashboard_snapshot.png)  
+![Dashboard Snapshot](https://github.com/Prabhat866/Crypto_power_bi_prabhat/blob/main/Dashboard_Snapshot.png)  
 
 ### 🔹 Price Trends Analysis  
-![Price Trends](price_trends.png)  
+![Price Trends](https://github.com/Prabhat866/Crypto_power_bi_prabhat/blob/main/Price_Trends_Analysis.png)  
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Power BI 🟨
 
@@ -26,7 +26,7 @@ CSV Dataset 📑
 
 Data Visualization 📊
 
-##📑 Steps to Use
+## 📑 Steps to Use
 
 Clone this repository:
 
@@ -38,23 +38,23 @@ Import the .pbix file (if shared).
 
 Explore the Dashboard & Price Trends Analysis.
 
-##🎯 Insights Gained
+## 🎯 Insights Gained
 
 📈 Clear understanding of crypto price fluctuations
 
-📊 Market trends and performance
+## 📊 Market trends and performance
 
 💡 Data-driven decision-making for investments
 
-##🤝 Contribution
+## 🤝 Contribution
 
 Contributions are welcome! Feel free to fork this repo and create a pull request with improvements.
 
-##📬 Contact
+## 📬 Contact
 
 For queries or collaboration, connect with me:
 
-💻 GitHub: 
+# 💻 GitHub: 
 
 📧 Email: your-email@example.com
 
